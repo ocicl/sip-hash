@@ -1,0 +1,10 @@
+* sip-hash
+
+Common Lisp implementation of the SipHash family of cryptographically secure hash functions.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/brown/sip-hash.git   |
+| commit  | ff51b17  |
+| systems | sip-hash |
+|---------+-------------------------------------------|
+
